@@ -2,7 +2,7 @@
 - 👀 software Developer @NRLM
 - 🌱 I’m currently working JAVA and Angular Projects
 - <br>
-Author- Satender Singh
+Author- Satender Chauhan
 
 <!---
 AMITNRLM123/AMITNRLM123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
